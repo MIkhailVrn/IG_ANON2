@@ -14,7 +14,8 @@
     "express": "~3.2.4",
     "instagram-private-api": "^0.6.7",
     "node": "^8.3.0",
-    "socket.io": "~0.9.14"
+    "socket.io": "~0.9.14",
+    "underscore": "^1.9.0"
   },
   "engines": {
     "node": "7.10.1"
